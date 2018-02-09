@@ -1,0 +1,159 @@
+Using ball or similar object
+Using long stick or racket
+Is there any goal post or hole for ball
+Using heavy protector
+Playing on ice
+Ice Hockey
+EOF
+EOF
+Field Hockey
+EOF
+EOF
+Using horse
+Polo
+EOF
+EOF
+Playing on glass
+Golf
+EOF
+EOF
+Pool
+EOF
+EOF
+Using racket
+Using shuttle cock
+Badminton
+EOF
+EOF
+Playing inside
+Squash
+EOF
+EOF
+Tennis
+EOF
+EOF
+Using only one ball
+Baseball
+EOF
+EOF
+Billard
+EOF
+EOF
+Is there goal post
+Do players need to bounce ball when they dribble it
+Is shape of goal post is ring
+Basketball
+EOF
+EOF
+Hand Ball
+EOF
+EOF
+Using foot
+Soccer
+EOF
+EOF
+Water polo
+EOF
+EOF
+Is there any net
+Using paddle
+Table Tennis
+EOF
+EOF
+Playing on beach
+Beach Volley Ball
+EOF
+EOF
+Volley Ball
+EOF
+EOF
+Hit player by ball
+Dodge Ball
+EOF
+EOF
+Playing in the USA
+American Football
+EOF
+EOF
+Rugby
+EOF
+EOF
+Is it Martial arts
+Using foot
+Made in Korea
+Can player hold counterpart
+Hap-Ki-Do
+EOF
+EOF
+Tae-Kwon-Do
+EOF
+EOF
+Made in China
+KungFu
+EOF
+EOF
+Made in Thai
+Muay Thai
+EOF
+EOF
+Kickboxing
+EOF
+EOF
+Can players hold counterpart
+Made in Brazil
+Jiu-Jit Su
+EOF
+EOF
+Made in Japan
+Judo
+EOF
+EOF
+Wrestling
+EOF
+EOF
+Using stick
+Kendo
+EOF
+EOF
+Boxing
+EOF
+EOF
+Playing  in water, ice, or snow
+Playing in water
+Is it evaluated by beauty
+Synchronized Swimming
+EOF
+EOF
+Swimming
+EOF
+EOF
+Is it evaluated by beauty
+Figure Skating
+EOF
+EOF
+Playing on snow
+Skiing
+EOF
+EOF
+Skating
+EOF
+EOF
+Using weapon
+Using gun
+Shooting
+EOF
+EOF
+Archery
+EOF
+EOF
+Using horse
+Equestrian
+EOF
+EOF
+Using bike
+Cycling
+EOF
+EOF
+Marathon
+EOF
+EOF
